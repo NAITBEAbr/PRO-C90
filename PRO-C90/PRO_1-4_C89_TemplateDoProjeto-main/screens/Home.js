@@ -46,6 +46,9 @@ export default class HomeScreen extends Component {
                         <Image source={require("../assets/daily_pictures.png")} style={styles.routeImage}></Image>
                     </TouchableOpacity>
                 </ImageBackground>
+            
+            
+            
             </View>
         );
     }
