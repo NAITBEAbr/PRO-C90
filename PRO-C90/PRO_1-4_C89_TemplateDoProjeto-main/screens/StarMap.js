@@ -52,14 +52,7 @@ export default class StarMapScreen extends Component {
 }
 
 
-         
-
-class Cordenada {
-    constructor( latitude, longitude) {
-      this.state = latitude;
-      this.state = longitude;
-    }
-  }
+      
   
   
 
